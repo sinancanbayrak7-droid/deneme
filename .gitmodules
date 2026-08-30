@@ -1,0 +1,3 @@
+[submodule "tradingview-screener"]
+	path = tradingview-screener
+	url = https://github.com/jmargieh/tradingview-screener.git
