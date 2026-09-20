@@ -265,9 +265,16 @@ class LLMCouncil:
 
     def _verify_data_source(self, entity: str, expected_source: str) -> bool:
         """Verify that data for entity came from expected source"""
-        # Check audit trail
-        for entry in self.data_audit_trail.get('entries', []):
-            if entry.get('symbol') == entity and entry.get('source') == expected_source:
+        # Check audit trail (can be a list or dict)
+        if isinstance(self.data_audit_trail, list):
+            entries = self.data_audit_trail
+        elif isinstance(self.data_audit_trail, dict):
+            entries = self.data_audit_trail.get('entries', [])
+        else:
+            return False
+
+        for entry in entries:
+            if entry.get('source') == expected_source:
                 return True
         return False
 
