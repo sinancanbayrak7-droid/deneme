@@ -248,7 +248,7 @@ class LLMCouncil:
 
             # Question 3: Confidence justification
             conf_score = result.get('confidence', 0)
-            if conf_score > 0.9 and rotation_idx between 0.9 and 1.1:
+            if conf_score > 0.9 and 0.9 <= rotation_idx <= 1.1:
                 issues.append(f"{sector}: High confidence ({conf_score}) but neutral rotation index")
                 confidence *= 0.7
 
