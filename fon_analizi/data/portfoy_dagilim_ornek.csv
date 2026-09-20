@@ -1,0 +1,511 @@
+fon_kodu,varlik_sinifi,yuzdesel_agirlik
+ABE,Yabancı BYF,81.39
+ABE,Hisse Senedi,9.03
+ABE,Ters-Repo,5.25
+AE1,Devlet Tahvili,34.2
+AE1,Ters-Repo,26.1
+AE1,Mevduat (TL),21.64
+AE1,Finansman Bonosu,6.86
+AE1,Özel Sektör Tahvili,6.82
+AE2,Devlet Tahvili,77.33
+AE2,Ters-Repo,5.47
+AEB,Hisse Senedi,91.41
+AEH,Hisse Senedi,83.05
+AEH,Ters-Repo,10.13
+AEI,Devlet Tahvili,48.86
+AEI,Hisse Senedi,29.23
+AEI,BYF Katılma Payları,17.68
+AEK,Devlet Tahvili,75.43
+AEK,Ters-Repo,8.97
+AEL,Kıymetli Maden Kamu Kira Sert.,83.3
+AEL,BYF Katılma Payları,7.19
+AEL,Kıymetli Madenler,6.06
+AET,Devlet Tahvili,49.73
+AET,Hisse Senedi,36.22
+AET,BYF Katılma Payları,11.08
+AEU,Hisse Senedi,91.74
+AEU,Ters-Repo,6.65
+AFA,Yabancı Hisse Senedi,98.05
+AFH,Devlet Tahvili,61.32
+AFH,Hisse Senedi,19.96
+AFH,Girişim S. YF Kat. Payları,10.12
+AFH,Gayrimenkul YF Kat. Payları,5.01
+AFP,Kamu Kira Sert. (TL),64.71
+AFP,Hisse Senedi,19.68
+AFP,Girişim S. YF Kat. Payları,9.31
+AFT,Yabancı Hisse Senedi,98.58
+AG1,Devlet Tahvili,79.18
+AG1,Ters-Repo,6.12
+AG1,Girişim S. YF Kat. Payları,5.16
+AG3,Hisse Senedi,87.85
+AG3,Takasbank Para Piyasası,7.84
+AGE,Kamu Kira Sert. (TL),69.32
+AGE,Hisse Senedi,29.58
+AH0,Hisse Senedi,82.63
+AH0,Girişim S. YF Kat. Payları,6.89
+AH0,Gayrimenkul YF Kat. Payları,5.08
+AH3,Kamu Dış Borç. Araç.,80.59
+AH3,Yabancı Özel Sektör B.A.,8.1
+AH3,Ters-Repo,7.6
+AH3,Mevduat (TL),5.49
+AH5,Hisse Senedi,91.41
+AH8,Devlet Tahvili,28.42
+AH8,Özel Sektör Tahvili,23.82
+AH8,Hisse Senedi,21.48
+AH8,Finansman Bonosu,7.98
+AH8,Vadeli İşlemler Nakit Teminatları,5.18
+AHC,Finansman Bonosu,39.67
+AHC,Özel Sektör Tahvili,35.89
+AHC,Özel Sektör Kira Sert.,8.05
+AHJ,Mevduat (TL),62.34
+AHJ,Devlet Tahvili,37.09
+AK2,Devlet Tahvili,82.04
+AK2,Ters-Repo,11.81
+AK2,Özel Sektör Tahvili,6.15
+AK3,Hisse Senedi,85.48
+AK3,Ters-Repo,9.6
+ALI,Hisse Senedi,90.12
+ALI,Yatırım Fonları Katılma Payları,8.63
+ALR,Yabancı Hisse Senedi,37.68
+ALR,Kamu Dış Borç. Araç.,26.84
+ALR,Hisse Senedi,18.75
+ALR,Yabancı BYF,8.61
+AMG,Kamu Dış Borç. Araç.,91.21
+AMY,Yabancı Hisse Senedi,37.26
+AMY,Kamu Dış Borç. Araç.,25.8
+AMY,Hisse Senedi,18.45
+AMY,Yabancı BYF,9.68
+AMZ,Kıymetli Maden Kamu B. A.,43.92
+AMZ,Kıymetli Maden Kamu Kira Sert.,25.15
+AMZ,Kıymetli Madenler,11.75
+AMZ,Kıymetli Maden Cinsinden BYF,11.11
+AO2,Katılma Hesabı (TL),81.82
+AO2,Kamu Kira Sert. (TL),15.84
+APJ,Yatırım Fonları Katılma Payları,85.08
+APJ,Ters-Repo,10
+ATE,Hisse Senedi,95.77
+ATK,Devlet Tahvili,66.97
+ATK,Hisse Senedi,27.68
+AVB,Kamu Dış Borç. Araç.,83.17
+AVB,Özel Sektör Dış Borç. Araç.,5.43
+AVG,Kamu Dış Borç. Araç.,71.45
+AVG,Özel Sektör Dış Borç. Araç.,12.64
+AVH,Hisse Senedi,88.54
+AVH,Ters-Repo,9.2
+AVO,Finansman Bonosu,48.51
+AVO,Özel Sektör Tahvili,20.9
+AVO,Özel Sektör Kira Sert.,18.75
+AVO,Ters-Repo,5.07
+AVR,Yabancı Hisse Senedi,91.45
+AVR,Yatırım Fonları Katılma Payları,7.16
+AVY,Mevduat (TL),56.48
+AVY,Hisse Senedi,41
+AZD,Yabancı Hisse Senedi,43.02
+AZD,Kıymetli Madenler,40.17
+AZD,Ters-Repo,6.06
+AZH,Hisse Senedi,87.97
+AZH,Ters-Repo,8.32
+AZK,Devlet Tahvili,74.1
+AZK,Ters-Repo,8.4
+AZK,Yatırım Fonları Katılma Payları,7.44
+AZL,Devlet Tahvili,35.14
+AZL,Mevduat (TL),24.46
+AZL,Ters-Repo,24.33
+AZL,Takasbank Para Piyasası,9.68
+GRO,Özel Sektör Dış Borç. Araç.,66.52
+GRO,Yabancı Özel Sektör B.A.,13.05
+GRO,Ters-Repo,9.47
+ONS,Özel Sektör Dış Borç. Araç.,46.56
+ONS,Ters-Repo,27.03
+ONS,Yabancı Özel Sektör B.A.,9.77
+ONS,Kamu Dış Borç. Araç.,6.49
+TP2,Ters-Repo,63.17
+TP2,Borsa İstanbul Para Piyasası,15.7
+TP2,Devlet Tahvili,9.76
+TP2,Özel Sektör Kira Sert.,5.54
+TTA,Kıymetli Madenler,61.53
+TTA,Kıymetli Maden Cinsinden BYF,15.37
+TTA,Kıymetli Maden Kamu Kira Sert.,13.14
+YKT,Kıymetli Maden Kamu B. A.,40.63
+YKT,Kıymetli Maden Kamu Kira Sert.,26.4
+YKT,Kıymetli Madenler,22.82
+YKT,Kıymetli Maden Cinsinden BYF,5.93
+BGL,Kıymetli Madenler,58.07
+BGL,Kıymetli Maden Cinsinden BYF,16.92
+BGL,Kıymetli Maden Kamu Kira Sert.,12.27
+BGL,Kıymetli Maden Kamu B. A.,6.57
+BHI,Hisse Senedi,67.03
+BHI,Vadeli İşlemler Nakit Teminatları,12.19
+BHI,Finansman Bonosu,11.41
+BKB,Döviz Kamu İç Borç. Araç.,84.09
+BKB,Vadeli İşlemler Nakit Teminatları,15.91
+BVZ,Ters-Repo,63.69
+BVZ,Katılma Hesabı (TL),9.82
+BVZ,Finansman Bonosu,9.64
+BVZ,Varlığa Dayalı Menkul Kıy.,6.17
+DCB,Mevduat (TL),64.28
+DCB,Ters-Repo,29.1
+DCB,Katılma Hesabı (TL),5.97
+DIP,Mevduat (TL),90.69
+DLY,Mevduat (TL),38.08
+DLY,Ters-Repo,27.47
+DLY,Devlet Tahvili,20.89
+DLY,Katılma Hesabı (TL),8.88
+DOH,Hisse Senedi,88.39
+DOH,Yatırım Fonları Katılma Payları,11.56
+EMY,Kıymetli Madenler,63
+EMY,Kıymetli Maden Kamu Kira Sert.,35.92
+EPI,Hisse Senedi,66.21
+EPI,Özel Sektör Kira Sert.,15.82
+EPI,Yabancı BYF,12.55
+EPI,BTAA,5.42
+FBC,Hisse Senedi,68.9
+FBC,BYF Katılma Payları,11.21
+FBC,Özel Sektör Kira Sert.,8.72
+FBC,Yatırım Fonları Katılma Payları,8.65
+FEA,Finansman Bonosu,59.79
+FEA,Özel Sektör Tahvili,29.38
+FEA,Özel Sektör Kira Sert.,6.78
+FMG,Kıymetli Madenler,66.03
+FMG,Hisse Senedi,31.07
+FYO,Finansman Bonosu,60.47
+FYO,Özel Sektör Tahvili,17.8
+FYO,Ters-Repo,6.18
+FYO,Özel Sektör Kira Sert.,5.54
+FYO,Diğer,5.47
+GBV,Yabancı Hisse Senedi,60.43
+GBV,Hisse Senedi,18.26
+GBV,Özel Sektör Dış Borç. Araç.,7.54
+GBV,Vadeli İşlemler Nakit Teminatları,5.42
+GBZ,Yabancı BYF,78.75
+GBZ,BYF Katılma Payları,11.21
+GBZ,Yatırım Fonları Katılma Payları,8.8
+GCK,Kamu Kira Sert. (TL),63.99
+GCK,Hisse Senedi,21.06
+GCK,Girişim S. YF Kat. Payları,9.26
+GCS,Devlet Tahvili,53.54
+GCS,Hisse Senedi,20.1
+GCS,Girişim S. YF Kat. Payları,10.94
+GCS,Mevduat (TL),5.51
+GCV,Mevduat (TL),46.54
+GCV,Devlet Tahvili,30.31
+GCV,Katılma Hesabı (TL),13.98
+GCV,Ters-Repo,7.21
+GDV,Katılma Hesabı (TL),100
+GEG,Hisse Senedi,94.18
+GEL,Ters-Repo,35.7
+GEL,Devlet Tahvili,33.6
+GEL,Mevduat (TL),21.04
+GEV,Kıymetli Maden Kamu Kira Sert.,45.26
+GEV,Kıymetli Madenler,42.4
+GEV,Kıymetli Maden Cinsinden BYF,10.52
+GGJ,Kıymetli Maden Cinsinden BYF,47.35
+GGJ,Yatırım Fonları Katılma Payları,20.88
+GGJ,BYF Katılma Payları,15.34
+GGJ,Kıymetli Madenler,9.58
+GGJ,Vadeli İşlemler Nakit Teminatları,6.49
+GHA,Kıymetli Maden Kamu Kira Sert.,74.65
+GHA,BYF Katılma Payları,24.21
+GHD,Devlet Tahvili,64.22
+GHD,Hisse Senedi,25.24
+GHD,Girişim S. YF Kat. Payları,6.02
+GHF,Devlet Tahvili,75.41
+GHF,Hisse Senedi,7.33
+GHF,Mevduat (TL),5.39
+GHG,Kamu Dış Borç. Araç.,79.01
+GHG,Özel Sektör Dış Borç. Araç.,8.32
+GHK,Kamu Dış Borç. Araç.,75.63
+GHK,Özel Sektör Dış Borç. Araç.,8.78
+GHL,Kamu Kira Sert. (TL),56.64
+GHL,Hisse Senedi,32.01
+GHL,BYF Katılma Payları,11.33
+GHO,Yabancı Hisse Senedi,35.73
+GHO,Devlet Tahvili,20.44
+GHO,Vadeli İşlemler Nakit Teminatları,12.79
+GHO,Kıymetli Maden Kamu Kira Sert.,11.7
+GHO,Yatırım Fonları Katılma Payları,6.97
+GKB,Kamu Kira Sert. (TL),93.15
+GMF,Yabancı BYF,49.27
+GMF,Yatırım Fonları Katılma Payları,40.31
+GMF,Kıymetli Maden Cinsinden BYF,7.35
+GTZ,Kıymetli Maden Cinsinden BYF,68.67
+GTZ,BYF Katılma Payları,15.25
+GTZ,Yatırım Fonları Katılma Payları,10.76
+GUB,Özel Sektör Tahvili,50.8
+GUB,Finansman Bonosu,31
+GUB,Ters-Repo,11.73
+GUV,Devlet Tahvili,95.44
+GZE,Yabancı BYF,66.99
+GZE,Ters-Repo,15.89
+GZE,Yatırım Fonları Katılma Payları,14.53
+GZH,Yabancı Hisse Senedi,62.39
+GZH,Hisse Senedi,14.33
+GZH,Ters-Repo,7.75
+GZL,Yabancı Hisse Senedi,55.91
+GZL,Hisse Senedi,22.84
+GZL,Ters-Repo,9.03
+GZL,Yabancı BYF,5.74
+GZY,Yabancı Hisse Senedi,63.96
+GZY,Hisse Senedi,29.39
+HHE,Hisse Senedi,52.37
+HHE,BYF Katılma Payları,27.83
+HHE,Girişim S. YF Kat. Payları,11.45
+HHG,Kamu Dış Borç. Araç.,89.2
+HMG,Hisse Senedi,82.04
+HMG,Vadeli İşlemler Nakit Teminatları,10.37
+HMG,Ters-Repo,5.58
+IJC,Yabancı Hisse Senedi,70.87
+IJC,Hisse Senedi,27.18
+IJT,Yabancı BYF,66.21
+IJT,Hisse Senedi,23.43
+IJT,Ters-Repo,9.18
+IKL,Yabancı Hisse Senedi,67.68
+IKL,Finansman Bonosu,17.46
+IKL,Hisse Senedi,5.92
+IKP,Yabancı Hisse Senedi,65.5
+IKP,Özel Sektör Tahvili,15.11
+IKP,Hisse Senedi,11.21
+IKP,Finansman Bonosu,7.61
+IOG,Yabancı BYF,80.19
+KEA,Kamu Kira Sert. (TL),53.32
+KEA,Hisse Senedi,20.85
+KEA,BYF Katılma Payları,18.43
+KEB,Kamu Kira Sert. (TL),62.15
+KEB,Hisse Senedi,28.82
+KGC,Kıymetli Madenler,86.05
+KGC,Kıymetli Maden Cinsinden BYF,10.3
+KHL,Hisse Senedi,90.75
+KHL,BYF Katılma Payları,9.25
+KJM,Kıymetli Madenler,72.82
+KJM,Kıymetli Maden Cinsinden BYF,14.7
+KJM,Kıymetli Maden Kamu Kira Sert.,6.29
+KJM,Yatırım Fonları Katılma Payları,5.73
+KLU,BTAS,74.69
+KLU,Katılma Hesabı (TL),25.3
+KLV,Hisse Senedi,33.05
+KLV,BTAS,32.95
+KLV,Yabancı Hisse Senedi,19.85
+KLV,Özel Sektör Kira Sert.,5.43
+KLV,Katılma Hesabı (Döviz),5.17
+KML,Kıymetli Madenler,91.38
+KML,Yabancı BYF,6.22
+KMP,BYF Katılma Payları,40.67
+KMP,Kıymetli Madenler,34.91
+KMP,Hisse Senedi,8.72
+KMP,Ters-Repo,6.85
+KOE,Devlet Tahvili,35.74
+KOE,Hisse Senedi,18.88
+KOE,Yatırım Fonları Katılma Payları,9.58
+KOE,Ters-Repo,9.19
+KOE,Özel Sektör Tahvili,9.18
+KOE,Mevduat (TL),6.89
+KOE,Takasbank Para Piyasası,5.18
+KPD,Kamu Yurt Dışı Kira Sert.,31.88
+KPD,Ö.S. Yurt Dışı Kira Sert.,18.63
+KPD,Yatırım Fonları Katılma Payları,17.85
+KPD,Kamu Kira Sert. (Döviz),15.88
+KPD,Diğer,15.76
+KSA,Mevduat (TL),34.32
+KSA,Finansman Bonosu,19.73
+KSA,Özel Sektör Tahvili,16.77
+KSA,Ters-Repo,16.1
+KSA,Katılma Hesabı (TL),11.73
+KSH,Hisse Senedi,77.39
+KSH,Yabancı Hisse Senedi,11.02
+KSH,Özel Sektör Kira Sert.,8.41
+KSV,Katılma Hesabı (TL),58.47
+KSV,BTAS,41.53
+KTV,Özel Sektör Kira Sert.,58.53
+KTV,BTAS,24.44
+KTV,Kamu Kira Sert. (TL),16.31
+KVS,Mevduat (TL),43.2
+KVS,Finansman Bonosu,14.64
+KVS,Katılma Hesabı (TL),10.82
+KVS,Özel Sektör Tahvili,10.51
+KVS,Ters-Repo,10.21
+KVS,Özel Sektör Kira Sert.,9.04
+KZL,Kıymetli Madenler,99.88
+LPH,Hisse Senedi,81.7
+LPH,Vadeli İşlemler Nakit Teminatları,18.3
+MDD,Hisse Senedi,57.2
+MDD,Vadeli İşlemler Nakit Teminatları,28.58
+MDD,Ters-Repo,5.94
+MDE,Finansman Bonosu,25.6
+MDE,Devlet Tahvili,24.82
+MDE,Hisse Senedi,24.19
+MDE,Takasbank Para Piyasası,9.54
+MDE,Ters-Repo,7.11
+MDE,Özel Sektör Kira Sert.,6.52
+NHA,Kıymetli Maden Kamu Kira Sert.,62.61
+NHA,Kıymetli Madenler,28.6
+NHA,BYF Katılma Payları,6.89
+NHO,Devlet Tahvili,51.67
+NHO,Vadeli Mevduat,34.68
+NHO,Fon Katılma Belgesi,12.84
+NHR,Kamu Kira Sert.,52.63
+NHR,Özel Sektör Kira Sert.,17.82
+NHR,Fon Katılma Belgesi,11.5
+NHR,Katılım Hesabı,9.33
+NHR,Hisse Senedi,8.72
+NKP,Yabancı Hisse Senedi,68.87
+NKP,Hisse Senedi,22.99
+NKP,Finansman Bonosu,7.69
+NSH,Hisse Senedi,76.24
+NSH,Vadeli İşlemler Nakit Teminatları,20.93
+NVT,Mevduat (TL),83.14
+NVT,Ters-Repo,12.22
+OJK,Kıymetli Madenler,35.25
+OJK,Kıymetli Maden Kamu Kira Sert.,34.78
+OJK,Kıymetli Maden Kamu B. A.,27.01
+OJT,Yabancı Hisse Senedi,78.93
+OJT,Hisse Senedi,12.29
+OVD,Yabancı Hisse Senedi,74.02
+OVD,Hisse Senedi,11.29
+OVD,Takasbank Para Piyasası,6.81
+PAL,Ters-Repo,37.62
+PAL,Özel Sektör Dış Borç. Araç.,31.31
+PAL,Yatırım Fonları Katılma Payları,15.76
+PAL,Döviz Kamu İç Borç. Araç.,6.54
+PKV,Mevduat (TL),81.25
+PKV,Finansman Bonosu,13.93
+PPJ,Mevduat (TL),96.68
+PVK,Katılma Hesabı (TL),99.75
+RBV,Özel Sektör Kira Sert.,54.37
+RBV,Kamu Kira Sert. (TL),25.75
+RBV,Katılma Hesabı (TL),19.88
+SSK,Yabancı Hisse Senedi,49.16
+SSK,Yabancı BYF,19.94
+SSK,Yatırım Fonları Katılma Payları,12.65
+SSK,Hisse Senedi,10.08
+TE3,Ters-Repo,44.56
+TE3,Devlet Tahvili,23.56
+TE3,Vadeli İşlemler Nakit Teminatları,10.69
+TE3,Yatırım Fonları Katılma Payları,9.49
+TE3,BYF Katılma Payları,5.46
+TGE,Yabancı BYF,94.18
+TGR,Yabancı Hisse Senedi,66.86
+TGR,Hisse Senedi,31.43
+THF,Hisse Senedi,88.63
+THF,Yatırım Fonları Katılma Payları,10.83
+THK,Özel Sektör Kira Sert.,86
+TJY,Mevduat (TL),19.05
+TJY,Vadeli İşlemler Nakit Teminatları,14.16
+TJY,Yatırım Fonları Katılma Payları,11.11
+TJY,Finansman Bonosu,11.08
+TJY,Hisse Senedi,9.5
+TJY,Takasbank Para Piyasası,9.43
+TJY,Ters-Repo,9.42
+TJY,Devlet Tahvili,8.22
+TJY,Özel Sektör Tahvili,6.77
+TLY,Hisse Senedi,87.43
+TLY,Yatırım Fonları Katılma Payları,8.9
+TMG,Yabancı Hisse Senedi,86.64
+TML,Hisse Senedi,45.93
+TML,Yatırım Fonları Katılma Payları,14.39
+TML,Yabancı Hisse Senedi,9.92
+TML,Vadeli İşlemler Nakit Teminatları,9.8
+TML,Takasbank Para Piyasası,8.47
+TML,Ters-Repo,6.29
+TML,Mevduat (TL),5.2
+TMN,Özel Sektör Kira Sert.,38.52
+TMN,Hisse Senedi,38.06
+TMN,Kamu Kira Sert. (TL),15.87
+TNE,Hisse Senedi,44.44
+TNE,Yabancı Hisse Senedi,44.06
+TNE,Ters-Repo,7.95
+TVE,Hisse Senedi,53.34
+TVE,Yabancı Hisse Senedi,31.05
+TVE,BTAA,7.72
+TVE,Özel Sektör Kira Sert.,6
+TYJ,Hisse Senedi,29.14
+TYJ,Mevduat (TL),18.96
+TYJ,Yatırım Fonları Katılma Payları,13.33
+TYJ,Finansman Bonosu,9.82
+TYJ,Takasbank Para Piyasası,8.99
+TYJ,Ters-Repo,8.31
+TYJ,Özel Sektör Tahvili,7.6
+UNT,Ters-Repo,100
+VEB,Hisse Senedi,38.91
+VEB,BYF Katılma Payları,23.14
+VEB,Özel Sektör Kira Sert.,14.31
+VEB,Katılma Hesabı (TL),13.17
+VEB,Yatırım Fonları Katılma Payları,5.7
+VEI,Devlet Tahvili,48.09
+VEI,Hisse Senedi,37.58
+VEI,BYF Katılma Payları,10.6
+VEK,Devlet Tahvili,59.79
+VEK,Hisse Senedi,25.99
+VEK,Girişim S. YF Kat. Payları,9.26
+VEO,Hisse Senedi,63.26
+VEO,BYF Katılma Payları,16.05
+VEO,Girişim S. YF Kat. Payları,6.81
+VER,Kamu Kira Sert. (TL),50.84
+VER,Hisse Senedi,31.42
+VER,BYF Katılma Payları,16.02
+VES,Devlet Tahvili,29.64
+VES,Özel Sektör Tahvili,25.97
+VES,Finansman Bonosu,16.07
+VES,Takasbank Para Piyasası,9.19
+VES,Ters-Repo,9.17
+VET,Kamu Dış Borç. Araç.,84.47
+VET,Mevduat (TL),6.94
+VGA,Kıymetli Maden Kamu Kira Sert.,49.05
+VGA,Kıymetli Maden Cinsinden BYF,18.89
+VGA,Kıymetli Madenler,16.21
+VGA,BYF Katılma Payları,9.66
+VGB,Kamu Kira Sert. (TL),68.85
+VGB,Hisse Senedi,27.07
+VGD,Kıymetli Madenler,53.36
+VGD,Kıymetli Maden Kamu Kira Sert.,24.36
+VGD,BYF Katılma Payları,9.9
+VGD,BTAS,5.57
+VGH,Hisse Senedi,66.45
+VGH,Özel Sektör Kira Sert.,11.29
+VGH,Katılma Hesabı (TL),9.31
+VGK,Kamu Kira Sert. (TL),52.96
+VGK,Hisse Senedi,19.69
+VGK,Girişim S. YF Kat. Payları,14.97
+VGK,Gayrimenkul YF Kat. Payları,7
+VGZ,Devlet Tahvili,46.77
+VGZ,Hisse Senedi,19.11
+VGZ,Girişim S. YF Kat. Payları,16.59
+VGZ,Gayrimenkul YF Kat. Payları,11.25
+VKE,Katılma Hesabı (TL),64.99
+VKE,Özel Sektör Kira Sert.,35.01
+VKJ,Mevduat (TL),57.11
+VKJ,Devlet Tahvili,33.89
+VKJ,Katılma Hesabı (TL),9
+VKV,Özel Sektör Kira Sert.,45.97
+VKV,Kamu Kira Sert. (TL),28.84
+VKV,Katılma Hesabı (TL),25.19
+YAS,Hisse Senedi,87.03
+YAS,Yatırım Fonları Katılma Payları,5.6
+YAY,Yabancı Hisse Senedi,97.43
+YBE,Kamu Dış Borç. Araç.,65.9
+YBE,Özel Sektör Dış Borç. Araç.,19.3
+YBE,Yatırım Fonları Katılma Payları,6.21
+YBS,Finansman Bonosu,42.62
+YBS,Özel Sektör Tahvili,35.29
+YBS,Ters-Repo,12.24
+YJH,Yabancı Hisse Senedi,48.22
+YJH,Yabancı BYF,15.87
+YJH,Hisse Senedi,14.35
+YJH,Özel Sektör Tahvili,12.94
+YJH,Yatırım Fonları Katılma Payları,8.57
+YNK,Özel Sektör Dış Borç. Araç.,94.5
+YSO,Yabancı BYF,65.94
+YSO,Hisse Senedi,27.7
+YSO,Yatırım Fonları Katılma Payları,5.27
+YVB,Devlet Tahvili,85.79
+YVB,Ters-Repo,10.16
+ZHD,Kamu Kira Sert. (Döviz),86.65
+ZHD,Katılma Hesabı (Döviz),7.83
+ZHE,Hisse Senedi,50.09
+ZHE,BYF Katılma Payları,22.21
+ZHE,Girişim S. YF Kat. Payları,13.84
+ZHG,Devlet Tahvili,62.8
+ZHG,Hazine Bonosu,13.14
+ZHG,Ters-Repo,9.32
+ZHG,Girişim S. YF Kat. Payları,6.77
+ZP8,Katılma Hesabı (TL),76.06
+ZP8,BTAS,23.37
